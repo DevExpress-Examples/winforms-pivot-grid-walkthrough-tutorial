@@ -11,7 +11,7 @@ The following example contains the source code of the project used in the follow
 
 ## Files to Look At
 
-- [Form1.cs](WinPivot_GettingStarted\winforms-pivot-grid-walkthrough-tutorial\CS\WinPivot_GettingStarted\Form1.cs) (VB: [Form1.vb](WinPivot_GettingStarted\winforms-pivot-grid-walkthrough-tutorial\CS\WinPivot_GettingStarted\Form1.vb))
+- [Form1.cs](./CS/WinPivot_GettingStarted/Form1.cs) (VB: [Form1.vb](VB/WinPivot_GettingStarted/Form1.vb))
 
 ## Documentation
 
