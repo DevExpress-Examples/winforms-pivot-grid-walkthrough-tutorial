@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # Pivot Grid for WinForms - Walkthrough Tutorial
 
-The following example contains source code used in the tutorials that explain how to get started with the Pivot Grid. The following image illustrates the resulting UI: 
+The following example contains the source code used in the tutorials that explain how to get started with the Pivot Grid. The following image illustrates the resulting UI: 
 
 ![Pivot Grid](./images/pivot-grid.png)
 
