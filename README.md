@@ -24,4 +24,4 @@ The following example contains source code used in the tutorials that explain ho
 
 - [Pivot Grid for WinForms - How to Connect the Pivot Grid to an OLAP Data Source](https://github.com/DevExpress-Examples/winforms-pivot-grid-connect-to-an-olap-datasource)
 - [Pivot Grid for WPF - Bind the Pivot Grid to an MS Access Database at Runtime](https://github.com/DevExpress-Examples/wpf-pivot-grid-connect-to-an-access-database-in-code)
-- [ASP.NET Pivot Grid - Bind a Pivot Grid to an MDB Database at Design Time](https://github.com/DevExpress-Examples/aspnet-pivot-grid-getting-started-bind-a-pivot-grid-to-an-mdb-database-runtime-sample-t540964)
+- [ASP.NET Pivot Grid - Bind a Pivot Grid to an MS Access Database at Design Time](https://github.com/DevExpress-Examples/aspnet-pivot-grid-getting-started-bind-a-pivot-grid-to-an-mdb-database-runtime-sample-t540964)
