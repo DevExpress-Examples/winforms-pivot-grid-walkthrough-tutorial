@@ -27,7 +27,7 @@ The following example contains the source code used in the tutorials that explai
 - [Pivot Grid for WPF - Bind the Pivot Grid to an MS Access Database at Runtime](https://github.com/DevExpress-Examples/wpf-pivot-grid-connect-to-an-access-database-in-code)
 - [ASP.NET Pivot Grid - Bind a Pivot Grid to an MS Access Database at Design Time](https://github.com/DevExpress-Examples/aspnet-pivot-grid-getting-started-bind-a-pivot-grid-to-an-mdb-database-runtime-sample-t540964)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pivot-grid-walkthrough-tutorial&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pivot-grid-walkthrough-tutorial&~~~was_helpful=no)
 
